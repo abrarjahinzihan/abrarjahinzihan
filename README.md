@@ -24,9 +24,9 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 - 💻 **Full-Stack Development:** Designing clean, interactive applications using JavaScript, Node.js, and modern CSS.
 - ⚙️ **Systems & Architecture:** Implemented a Unix-style File System from scratch in **C** and developed an inventory calculation system in **x86 Assembly**.
 - 🧠 **AI & Machine Learning:** Exploring machine learning classifiers, model benchmarking, and data science in Python.
-- 🇧🇩 **Open-Source Initiatives:**
+- 🇧🇩 **Key Highlights & Projects:**
   - 🚌 **[DHAKA_LOCAL_BUS_VARA](https://github.com/abrarjahinzihan/DHAKA_LOCAL_BUS_VARA)** — Dhaka city bus transit route & fare assistant.
-  - 💼 **[interview-questions-bangladesh](https://github.com/abrarjahinzihan/interview-questions-bangladesh)** — Crowdsourced software engineering interview repository for Bangladeshi tech companies.
+  - 📞 **[Emergency-Hotline](https://github.com/abrarjahinzihan/Emergency-Hotline)** — Bangladesh emergency helpline directory & quick dial accessibility.
   - 🤝 **[CareerConnect](https://github.com/abrarjahinzihan/CareerConnect)** — CSE470 Group project connecting tech talent with employers.
 - 📫 **Reach Me:** [abrarjahinkhanzihan@gmail.com](mailto:abrarjahinkhanzihan@gmail.com)
 
@@ -66,9 +66,10 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 | Repository | Description | Primary Stack |
 | :--- | :--- | :--- |
 | 🚌 **[DHAKA_LOCAL_BUS_VARA](https://github.com/abrarjahinzihan/DHAKA_LOCAL_BUS_VARA)** | Dynamic route and transit fare calculator for Dhaka local commuters. | `JavaScript` |
-| 📚 **[interview-questions-bangladesh](https://github.com/abrarjahinzihan/interview-questions-bangladesh)** | Crowdsourced SWE interview questions collected from Bangladeshi tech firms. | `Markdown` / `Community` |
+| 💬 **[customer-support-zone](https://github.com/abrarjahinzihan/customer-support-zone)** | Interactive customer support ticketing and service dashboard. | `JavaScript` |
 | 📁 **[Design-and-Implementation-of-SimpleFS](https://github.com/abrarjahinzihan/Design-and-Implementation-of-SimpleFS)** | Unix-style file system implementation featuring inode indexing and bitmap block management. | `C` / `Systems` |
 | 🧮 **[Inventory---Profit-Calculation-System](https://github.com/abrarjahinzihan/Inventory---Profit-Calculation-System)** | Low-level retail inventory ledger and dynamic profit margin calculator. | `Assembly x86` |
+| 📞 **[Emergency-Hotline](https://github.com/abrarjahinzihan/Emergency-Hotline)** | Quick-access national and local emergency helpline directory. | `HTML` / `Web` |
 | 🤝 **[CareerConnect](https://github.com/abrarjahinzihan/CareerConnect)** | CSE470 Group Project connecting university students with employment opportunities. | `JavaScript` |
 | 🤖 **[AI-project](https://github.com/abrarjahinzihan/AI-project)** | Machine Learning model benchmarks, feature engineering, and neural network evaluations. | `Jupyter Notebook` / `Python` |
 
