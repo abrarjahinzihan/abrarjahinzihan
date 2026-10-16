@@ -47,16 +47,22 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 
 ---
 
-### 📊 GitHub Real-Time Stats & Metrics
+### 📊 Dynamic GitHub Contribution Calendar & Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrarjahinzihan&theme=tokyonight" width="49%" alt="Contribution Calendar Breakdown" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrarjahinzihan&theme=tokyonight" width="49%" alt="Productive Time Heatmap" />
+</div>
+
+<div align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=06b6d4" height="165" alt="Abrar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" height="165" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=abrarjahinzihan&theme=tokyonight&hide_border=true&stroke=6366f1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abrarjahinzihan&theme=tokyonight&hide_border=true&stroke=6366f1" alt="GitHub Streak Calendar" />
 </div>
 
 ---
