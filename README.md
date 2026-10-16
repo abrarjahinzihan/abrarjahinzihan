@@ -47,11 +47,10 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 
 ---
 
-### 📊 Dynamic GitHub Contribution Calendar & Analytics
+### 📊 Dynamic GitHub Contribution Matrix & Activity Overview
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrarjahinzihan&theme=tokyonight" width="49%" alt="Contribution Calendar Breakdown" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abrarjahinzihan&theme=tokyonight" width="49%" alt="Productive Time Heatmap" />
+  <img src="https://raw.githubusercontent.com/abrarjahinzihan/abrarjahinzihan/main/activity-calendar.svg" width="100%" alt="Contribution Matrix & Activity Overview" />
 </div>
 
 <div align="center">
