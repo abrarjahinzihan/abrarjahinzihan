@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abrar+Jahin+Zihan+%F0%9F%91%8B;Software+Engineer+%26+Computer+Science+Student;Full-Stack+Web+Developer;Systems+%26+Low-Level+Programming+(C%2FAssembly);Building+Impactful+Open-Source+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=820&height=50&lines=Hi+there%2C+I'm+Abrar+Jahin+Zihan+%F0%9F%91%8B;Software+Engineer+%26+Computer+Science+Student;Full-Stack+Web+Developer;Systems+%26+Low-Level+Programming+(C%2FAssembly);Building+Impactful+Open-Source+Solutions" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -62,8 +62,8 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 ### 📊 Dynamic GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=06b6d4" height="165" alt="Abrar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=06b6d4" height="215" alt="Abrar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=pie&theme=tokyonight&hide_border=true&title_color=6366f1&langs_count=6" height="215" alt="Top Languages Pie Chart" />
 </div>
 
 <div align="center">
