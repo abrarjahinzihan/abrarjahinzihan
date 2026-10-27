@@ -47,7 +47,27 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 
 ---
 
-<h3 align="center">My Contributions ✅</h3>
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA" alt="Most used languages" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=8B5CF6" alt="GitHub stats" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=abrarjahinzihan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B86A8" alt="GitHub streak" />
+
+</div>
+
+## Contribution Graph
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrarjahinzihan&theme=github_dark&title_color=C4B5FD&text_color=DDD6FE&bg_color=0D1117&border_color=312E81&icon_color=A78BFA&chart_color=8B5CF6" alt="GitHub contribution activity" />
+
+<br/><br/>
 
 <div align="center">
   <picture>
@@ -55,20 +75,6 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrarjahinzihan/abrarjahinzihan/output/github-contribution-grid-snake.svg">
     <img alt="Abrar's Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/abrarjahinzihan/abrarjahinzihan/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
-</div>
-
-<br>
-
-### 📊 Dynamic GitHub Stats & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366f1&icon_color=06b6d4" height="215" alt="Abrar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=pie&theme=tokyonight&hide_border=true&title_color=6366f1&langs_count=6" height="215" alt="Top Languages Pie Chart" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=abrarjahinzihan&theme=tokyonight&hide_border=true&stroke=6366f1" alt="GitHub Streak Calendar" />
 </div>
 
 ---
