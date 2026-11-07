@@ -51,15 +51,15 @@ Hello! I am **Abrar Jahin Zihan**, a computer science student and software devel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrarjahinzihan&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&cache_seconds=86400" alt="Most used languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=8B5CF6" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abrarjahinzihan&show_icons=true&hide=issues&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&text_color=DDD6FE&icon_color=A78BFA&ring_color=8B5CF6&cache_seconds=86400" alt="GitHub stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=abrarjahinzihan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B86A8" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=abrarjahinzihan&hide_border=true&background=0D1117&stroke=312E81&ring=8B5CF6&fire=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=8B86A8" alt="GitHub streak" />
 
 </div>
 
